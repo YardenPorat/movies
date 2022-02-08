@@ -1,0 +1,11 @@
+.root {
+    display: flex;
+}
+
+.poster {
+    width: 200px;
+}
+
+img {
+    width: 100%;
+}
